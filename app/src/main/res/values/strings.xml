@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CheckMyNano</string>
+    <string name="title_home">Home</string>
+    <string name="title_options">Options</string>
+    <string name="fragment_options_textAddAdr"> Click below to add/remove the nano address</string>
+    <string name="fragment_options_btn1"> Edit saved addresses</string>
+    <string name="fragment_options_textChkBtn"> Select base currency:</string>
+    <string name="fragment_options_radio_btn"> Change </string>
+    <string name="fragment_main_usd_sum"> 0.00 </string>
+    <string name="fragment_main_nano_sum"> 0.00 NANO</string>
+    <string name="fragment_options_editAdr">Edit saved addresses</string>
+    <string name="nano_address">nano address</string>
+
+
+</resources>
